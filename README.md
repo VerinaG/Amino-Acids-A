@@ -7,6 +7,13 @@ This Amino Acids API is capable of the following:
 - Searching amino acid database by select criteria
 - Adding food sources to amino acids
 
+## Tools Used
+- Python
+- Flask
+- Docker
+- AWS DynamoDB
+- AWS Lightsail
+
 ## Usage
 
 The API can be accessed at: 
